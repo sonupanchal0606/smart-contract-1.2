@@ -7,4 +7,5 @@ prerequisit:
 vs code : for code writting
 npm
 web3.js
+remix environment : injected web3
 
