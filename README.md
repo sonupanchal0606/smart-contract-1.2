@@ -10,3 +10,14 @@ metamask
 web3.js
 remix environment : injected web3
 
+to run this code 
+1)open remis ide and create smartcontract Bank.sol
+2)compile the code
+3)deploy the contract in injected web3 environment
+4)in metamask confirm the transaction . note : i had used rinkiby testnetwork
+5)open VS code and create index.html file
+6)copy paste the index file . Note : use your own blockchain address and abi to interact
+7)start the http-server in the terminal
+8)copy the local host url and paste it in the browser 
+9)interact with your web application 
+end
