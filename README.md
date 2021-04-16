@@ -17,7 +17,7 @@ to run this code
 4)in metamask confirm the transaction . note : i had used rinkiby testnetwork
 5)open VS code and create index.html file
 6)copy paste the index file . Note : use your own blockchain address and abi to interact
-7)start the http-server in the terminal
+7)start the http-server in the terminal by http-server
 8)copy the local host url and paste it in the browser 
 9)interact with your web application 
 end
